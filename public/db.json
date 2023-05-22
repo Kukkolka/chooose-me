@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "backgroundImage": "assets/bg.jpg",
+      "rating": 5,
+      "countries":8,
+      "days":21,
+      "emissionOffset": 51,
+      "header": "European Quest"
+    },
+    {
+      "backgroundImage": "assets/bg2.jpg",
+      "rating": 4.2,
+      "countries":7,
+      "days":21,
+      "emissionOffset": 50222441,
+      "header": "Autumn Roadtrip"
+    },    
+    {
+    "backgroundImage": "assets/bg3.jpg",
+    "rating": 4.6,
+    "countries":8,
+    "days":21,
+    "emissionOffset": 502221,
+    "header": "Diving Adventure in Egypt"
+  }]
+}
