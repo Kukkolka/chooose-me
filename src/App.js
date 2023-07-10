@@ -1,6 +1,9 @@
 import React from 'react';
 import { ChakraProvider, Box } from '@chakra-ui/react';
 import FrontPage from './components/FrontPage.tsx';
+import FrontPage from './components/FrontPagenew.tsx';
+
+
 
 function App() {
   return (
