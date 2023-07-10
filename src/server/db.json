@@ -1,0 +1,9 @@
+{
+  "data": {
+    "backgroundImage": "background.jpg",
+    "rating": 4.2,
+    "emissionOffset": 500,
+    "header": "Iya Petin Test Dev Task",
+    "subheader": "Ipsum Lorem"
+  }
+}
